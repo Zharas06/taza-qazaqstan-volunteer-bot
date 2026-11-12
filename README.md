@@ -1,2 +1,2 @@
 # -taza-qazaqstan-volunteer-bot
-Telegram bot for recruiting volunteers for the "Taza Qazaqstan" national initiative. Built with Python.
+Bilingual (RU/KZ) Telegram bot for coordinating volunteer help: requests, moderation, geolocation, points and Excel reports. Python, aiogram, SQLite.
